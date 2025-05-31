@@ -25,51 +25,7 @@ def step_impl(context):
     """
     :type context: behave.runner.Context
     """
-    raise NotImplementedError(u'STEP: Y la carrera de sistemas tiene los siguientes objetivos:
-                              | Verificación, validación
-    y
-    aseguramiento
-    de
-    la
-    calidad
-    del Software |
-        | Administración
-    de
-    proyectos
-    de
-    Software |
-    | Investigación
-    aplicada
-    en
-    proyectos
-    de
-    conceptualización, desarrollo, innovación
-    y
-    transferencia
-    de
-    Software |
-    | Ingeniería
-    de
-    Software
-    para
-    el
-    desarrollo
-    de
-    Sistemas
-    de
-    Información
-    y
-    Sistemas
-    Inteligentes |
-    | Emprendimiento
-    de
-    empresas
-    de
-    investigación, innovación, desarrollo
-    y
-    comercialización
-    de
-    Software | ')
+
 
 
 @step("consulte el progreso del historial")
