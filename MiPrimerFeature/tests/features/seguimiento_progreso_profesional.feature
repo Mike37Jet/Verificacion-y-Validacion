@@ -10,6 +10,7 @@ Característica: Seguimiento de autoevaluación de progreso profesional
     Dado que el estudiante tiene registrado al menos un historial de perfil estudiantil
 
   Escenario: Seguimiento sin falencias
+    Y el umbral de aceptación mínimo es de 70
     Y la carrera de sistemas tiene los siguientes objetivos:
       | Verificación, validación y aseguramiento de la calidad del Software |
       | Administración de proyectos de Software |
